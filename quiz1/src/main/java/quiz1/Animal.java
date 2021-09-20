@@ -1,5 +1,5 @@
 package quiz1;
-
+//ello
 abstract class Animal 
 {
 	int legs;
